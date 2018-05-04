@@ -13,6 +13,8 @@ Data Wrangling/Cleaning: data_cleaning.pdf
 
 Inferential Statistics: inferential_statistics.pdf
 
+Milestone Report: milestone_report.pdf
+
 ## Data
 
 Raw CSV: indian_liver_dataset.csv
