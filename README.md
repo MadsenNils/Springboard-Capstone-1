@@ -24,3 +24,5 @@ Cleaned CSV: indian_liver_dataset_clean.csv
 Data Wrangling/Cleaning: data_cleaning.ipynb
 
 Inferential Statistics: inferential_statistics.ipynb
+
+Data Storytelling: data_storytelling.ipynb
