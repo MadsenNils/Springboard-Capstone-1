@@ -23,17 +23,17 @@ All figures used in these reports are available in the 'figures' folder.
 
 ## Data
 
-Raw CSV: indian_liver_dataset.csv
+Raw CSV: indian_liver_dataset_raw.csv
 
 Cleaned CSV: indian_liver_dataset_clean.csv
 
-## Code
+## Notebooks
 
-Data Wrangling/Cleaning: data_cleaning.ipynb
+Data Wrangling/Cleaning: 01_nm_data_cleaning.ipynb
 
-Inferential Statistics: inferential_statistics.ipynb
+Inferential Statistics: 02_nm_inferential_statistics.ipynb
 
-Data Storytelling: data_storytelling.ipynb
+Data Storytelling: 03_nm_data_storytelling.ipynb
 
-PCA and Machine Learning: learning_model_comparison.ipynb
+PCA and Machine Learning: 04_nm_learning_model_comparison.ipynb
 
