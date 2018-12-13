@@ -2,7 +2,7 @@
 
 Author: Nils Madsen
 
-email: nmadsenucsb@gmail.com
+email: nilsrmadsen@gmail.com
 ___
 
 ## Written Reports
