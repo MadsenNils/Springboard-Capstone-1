@@ -19,6 +19,8 @@ Final Report: 05_final_report.pdf
 
 Powerpoint Presentation: 05_final_report_slides.pptx
 
+Tableau Public EDA Storyboard: https://public.tableau.com/profile/nils.madsen#!/
+
 All figures used in these reports are available in the 'figures' folder.
 
 ## Data
